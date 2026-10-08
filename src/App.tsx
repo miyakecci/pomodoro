@@ -181,7 +181,7 @@ export default function App() {
   return (
     <div className={`app mode-${mode}`}>
       <header>
-        <h1>ポモドーロタイマー</h1>
+        <h1>ポモドーロタイマー！</h1>
       </header>
 
       <div className="layout">
